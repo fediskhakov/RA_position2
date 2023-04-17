@@ -1,4 +1,5 @@
-# This is test assignment for the RA position with Prof Fedor Iskhakov, RSE ANU
+# This is test assignment for the RA position 
+with **Prof Fedor Iskhakov, RSE ANU**
 
 This research assistant position is an ongoing part time engagement and will be filled as soon as a suitable candidate is found. The successful candidate will be expected to work up to 8-10 hours per week and will be paid at the standard casual *ANU officer level 4* hourly rate around $40 per hour ([see ANU HR website for details](https://services.anu.edu.au/human-resources/salaries-benefits/professional-general-staff-casual-rates))
 
